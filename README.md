@@ -54,7 +54,7 @@ Right-click `ntp_time_sync.exe` and select "Run as administrator".
 
 ## 🖼️ 界面预览 / Screenshots
 
-[*双语UI](https://github.com/miaolink/ntp_time_sync/blob/main/ch.png)
+![NTP Time Sync Tool Interface](https://raw.githubusercontent.com/miaolink/ntp_time_sync/main/en.png)
 
 ---
 
