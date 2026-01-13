@@ -4,7 +4,7 @@
 A lightweight and easy-to-use Windows system time synchronization tool with support for custom NTP servers and scheduled auto-sync.
 
 ---
-[https://github.com/miaolink/ntp_time_sync/blob/main/en.png]
+![NTP时间同步中文版](https://raw.githubusercontent.com/miaolink/ntp_time_sync/main/ch.png)
 
 
 ## ✨ 主要特性 / Key Features
