@@ -4,6 +4,8 @@
 A lightweight and easy-to-use Windows system time synchronization tool with support for custom NTP servers and scheduled auto-sync.
 
 ---
+[https://github.com/miaolink/ntp_time_sync/blob/main/en.png]
+
 
 ## ✨ 主要特性 / Key Features
 
@@ -52,7 +54,7 @@ Right-click `ntp_time_sync.exe` and select "Run as administrator".
 
 ## 🖼️ 界面预览 / Screenshots
 
-*（可在此处添加程序界面截图）*
+[*双语UI](https://github.com/miaolink/ntp_time_sync/blob/main/ch.png)
 
 ---
 
