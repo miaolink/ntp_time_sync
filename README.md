@@ -21,6 +21,8 @@ A lightweight and easy-to-use Windows system time synchronization tool with supp
 
 ## 📥 下载 / Download
 
+https://github.com/miaolink/ntp_time_sync/blob/main/ntp_time_sync.exe
+
 从https://wwaph.lanzouu.com/b00uzrqe2b 密码:c8ie页面下载最新版本。
 
 Download the latest version from the https://wwaph.lanzouu.com/b00uzrqe2b password:c8ie page.
